@@ -1,3 +1,7 @@
+My verson of the MKRGSM Arduino Library:
+- SMS Functions have timeouts in them
+
+Credit for most of the code goes to Arduinoo:
 = MKRGSM Library for Arduino =
 
 image:https://travis-ci.org/arduino-libraries/MKRGSM.svg?branch=master["Build Status", link="https://travis-ci.org/arduino-libraries/MKRGSM"]
